@@ -22,3 +22,19 @@ I am following [Abdullahi Ali's A Simple Elastic SIEM Lab](https://medium.com/@a
 ![Agent4](/agent-enrol4.png?raw=true "Agent Enroll-4")
 ### Checking Agent status
 ![Agent5](/agent-status.png?raw=true "Agent Status")
+
+## Discover Page
+![Discover](/discover-page.png?raw=true "Discover Page")
+### NMAP Scan
+![Nmap](/nmap.png?raw=true "Nmap")
+### Querying
+![Query](/querying.png?raw=true "Querying")
+
+## Create Rule
+![Rule](/create-rule1.png?raw=true "Create rule")
+![Rule](/create-rule2.png?raw=true "Create rule")
+![Rule](/create-rule3.png?raw=true "Create rule")
+![Rule](/create-rule4.png?raw=true "Create rule")
+### Email Alert
+![Rule](/create-rule5.png?raw=true "Create rule")
+![Rule](/create-rule6.png?raw=true "Create rule")
