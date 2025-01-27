@@ -13,6 +13,11 @@ I am following [Abdullahi Ali's A Simple Elastic SIEM Lab](https://medium.com/@a
 ![Agent1](/agent-enrol1.png?raw=true "Agent Enroll-1")
 ![Agent2](/agent-enrol2.png?raw=true "Agent Enroll-2")
 ![Agent3](/agent-enrol3.png?raw=true "Agent Enroll-3")
+### Checking Architecture
+![Arch](/arch.png?raw=true "Arch")
+### Downloading Agent
+![Download](/download.png?raw=true "Agent Download")
+![Depackage](/dpkg.png?raw=true "Dpkg")
 ### Agent Enrollment
 ![Agent4](/agent-enrol4.png?raw=true "Agent Enroll-4")
 ### Checking Agent status
