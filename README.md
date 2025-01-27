@@ -26,7 +26,7 @@ I am following [Abdullahi Ali's A Simple Elastic SIEM Lab](https://medium.com/@a
 ## Discover Page
 ![Discover](/discover-page.png?raw=true "Discover Page")
 ### NMAP Scan
-![Nmap](/nmap.png?raw=true "Nmap")
+![Nmap](/nmap-scan.png?raw=true "Nmap")
 ### Querying
 ![Query](/querying.png?raw=true "Querying")
 
