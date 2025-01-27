@@ -10,3 +10,10 @@ I am following [Abdullahi Ali's A Simple Elastic SIEM Lab](https://medium.com/@a
 ![Deployment3](/Deployment3.png?raw=true "Deployment Page-3")
 
 ## Setting Up an Agent Collect Logs
+![Agent1](/agent-enrol1.png?raw=true "Agent Enroll-1")
+![Agent2](/agent-enrol2.png?raw=true "Agent Enroll-2")
+![Agent3](/agent-enrol3.png?raw=true "Agent Enroll-3")
+### Agent Enrollment
+![Agent4](/agent-enrol4.png?raw=true "Agent Enroll-4")
+### Checking Agent status
+![Agent5](/agent-status.png?raw=true "Agent Status")
